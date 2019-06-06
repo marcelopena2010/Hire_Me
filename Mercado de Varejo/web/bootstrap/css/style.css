@@ -1,0 +1,39 @@
+.centralizado {
+    margin: 0em auto 0em;
+    width: 12.5em;
+}
+.centralizado2 {
+    margin: 0em auto 0em;
+    text-align: center;
+}
+.centraliza-texto{
+	margin: 0em auto 0em;
+	text-align: center;
+	color: white;
+	
+}
+
+.centraliza-botao{
+	margin: 1em auto 0em;
+	width: 11em;
+}
+
+.centraliza-botao2{
+	margin: 1em auto 0em;
+	width: 11em;
+        text-align: center;
+	color: white;
+}
+
+#login {
+    margin: auto;
+    width: 500px;
+    background: white;
+    text-align: left;
+    border: 2px solid #2a3235;
+    border-radius: 7pt;
+    overflow: auto;
+}
+user agent stylesheetdiv {
+    display: block;
+}
